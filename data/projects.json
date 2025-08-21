@@ -1,0 +1,72 @@
+[
+  {
+    "start_date": "2024",
+    "end_date": "Present",
+    "title": "Facial Analysis in Selfies to Identify Anxiety and Depression in Pregnant Patients",
+    "role": "Research Coordinator",
+    "description": "This project aims to develop an AI system to detect anxiety and depression in pregnant women by using selfies and self-assessment questionnaires to train predictive models, specifically aiming for authentic facial expression analysis outside controlled environments, as part of the Grávida Digital macroproject."
+  },
+  {
+    "start_date": "2024",
+    "end_date": "Present",
+    "title": "Identifying Anxiety and Depression Using Facial Analysis in a Reduced Database",
+    "role": "Research Coordinator",
+    "description": "This research explores innovative methods to identify depression and anxiety through facial expression analysis in selfies, employing transfer learning and OpenFace for feature extraction, investigating fake smile detection, and planning to develop a mobile application to collect passive selfie data, while addressing small database challenges."
+  },
+  {
+    "start_date": "2024",
+    "end_date": "Present",
+    "title": "Text-To-SQL Solutions for IAGROGPT: An Intelligent Virtual Assistant for Brazilian Agriculture",
+    "role": "Research Coordinator",
+    "description": "This project is dedicated to developing Text-to-SQL solutions for IAGROGPT, an intelligent virtual assistant specifically designed for the Brazilian agribusiness sector."
+  },
+  {
+    "start_date": "2023",
+    "end_date": "2024",
+    "title": "Air Writing Using Computer Vision and Machine Learning",
+    "role": "Research Coordinator",
+    "description": "This concluded research project centered on \"Air Writing\", leveraging computer vision and machine learning techniques to recognize text and detect writing intention, also developing the computer vision algorithm for electronic pens and points of interest."
+  },
+  {
+    "start_date": "2022",
+    "end_date": "2024",
+    "title": "Blast Furnace Temperature Prediction Using Machine Learning",
+    "role": "Research Coordinator",
+    "description": "This project aimed to enhance blast furnace temperature control in a steel mill using AI to predict multi-step ahead temperatures, replacing manual monitoring to reduce pollutant emissions, production costs, and production stoppages while improving pig iron quality by enabling continuous monitoring and anticipatory adjustments."
+  },
+  {
+    "start_date": "2022",
+    "end_date": "2024",
+    "title": "Visual Classifier Training Process Using Reduced Databases",
+    "role": "Senior AI Researcher",
+    "description": "This research focused on the training process of visual classifiers when utilizing reduced databases, which included enhancing classification models with data and generating databases using internet data."
+  },
+  {
+    "start_date": "2021",
+    "end_date": "Present",
+    "title": "Institute of Applied Computational Intelligence - I2CA",
+    "role": "AI Researcher",
+    "description": "The I2CA's mission is to conduct research in applied computational intelligence for industry, emphasizing autonomous vehicles and intelligent systems, training specialized personnel, and fortifying the AI business ecosystem by researching Artificial Visual Cognition and developing powerful Autonomous Computational Intelligences (ICAs) through macroprojects in collaboration with various partners to create new technologies."
+  },
+  {
+    "start_date": "2020",
+    "end_date": "Present",
+    "title": "Grávida Digital - Development of mobile-based software to identify depression, anxiety, and stress during pregnancy",
+    "role": "Research Coordinator",
+    "description": "The core objective of this project is to develop an algorithm to identify depression, anxiety, and stress in pregnant women by using voice biomarker technology, facial expression analysis, cell phone usage patterns, metadata, data mining, and artificial intelligence, involving partnerships with several universities."
+  },
+  {
+    "start_date": "2021",
+    "end_date": "Present",
+    "title": "UniversidadES - Open University Program of Espírito Santo (UnAC) of the UniversidadES System",
+    "role": "Coordinator",
+    "description": "This is a teaching project that forms part of the UniversidadES - Open University Program of Espírito Santo (UnAC) of the UniversidadES System."
+  },
+  {
+    "start_date": "2022",
+    "end_date": "2022",
+    "title": "DeepRec-PRL22",
+    "role": "AI Researcher",
+    "description": "This is an unregistered software program related to the doctoral research on reconstructing shredded documents using deep learning, which involved exploring character shapes and developing a deep learning-based compatibility score for reconstruction."
+  }
+]

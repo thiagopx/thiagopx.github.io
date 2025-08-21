@@ -1,0 +1,198 @@
+{# templates/index.html #}
+{% extends "base.html" %}
+{% block content %}
+<!-- Hero Section -->
+<section id="hero" class="hero section">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 content-col" data-aos="fade-up">
+        <div class="content">
+          <div class="main-heading">
+            <h1>{{ hero.name }}</h1>
+          </div>
+          <div class="divider"></div>
+          <div class="description" style="text-align: justify;">
+            {% for paragraph in hero.description %}
+              <p>{{ paragraph | safe }}</p>
+            {% endfor %}
+          </div>
+          <div class="cta-button">
+            <a href="{{ hero.cta_link }}" class="btn">
+              <span>{{ hero.cta_text }}</span>
+              <i class="bi bi-arrow-right"></i>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4" data-aos="zoom-out">
+        <div class="visual-content">
+          <div class="fluid-shape">
+            <img src="{{ hero.image }}" alt="Profile" class="fluid-img">
+          </div>
+          <div class="stats-card">
+            {% for s in hero.social %}
+              <a href="{{ s.link }}" target="_blank"><i class="{{ s.icon }}"></i></a>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<!-- Projects Section -->
+<section id="projects" class="about section" style="background-image: url('assets/img/background/portfolio-background.jpg'); background-position: left bottom;">
+
+  <div class="container section-title" data-aos="fade-up">
+    <h2>Innovation Boosted by</h2>
+    <div><span>AI </span> <span class="description-title">Projects</span></div>
+  </div><!-- End Section Title -->
+
+  <div class="container">
+    <div id="subsection-projects" class="testimonial-section" data-aos="fade-up" data-aos-delay="100">
+      <div class="row">
+        <div class="col-lg-12" data-aos="fade-left" data-aos-delay="300">
+          <div class="testimonial-slider swiper init-swiper">
+            <script type="application/json" class="swiper-config">
+              {
+                "loop": true,
+                "speed": 800,
+                "autoplay": {
+                  "delay": 5000
+                },
+                "slidesPerView": 1,
+                "spaceBetween": 30,
+                "navigation": {
+                  "nextEl": ".slider-next",
+                  "prevEl": ".slider-prev"
+                },
+                "breakpoints": {
+                  "768": {
+                    "slidesPerView": 3
+                  }
+                }
+              }
+            </script>
+
+            <div class="swiper-wrapper mt-2 pt-2">
+
+              {% for project in projects %}
+              <div class="swiper-slide">
+                <div class="testimonial-item">
+                  <div class="mb-3">
+                    <p><span>{{ project.start_date }}</span> &mdash; <span>{{ project.end_date }}</span></p>
+                  </div>
+                  <p><b>{{ project.role }}</b></p>
+                  <div class="mb-3">
+                  <p>{{ project.title }}</p>
+                  </div>
+                  <div class="client-info d-flex align-items-center mt-4">
+                    <div>
+                      <span>{{ project.description }}</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              {% endfor %}
+
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-2" data-aos="fade-right" data-aos-delay="200">
+          <div class="testimonial-intro">
+            <div class="swiper-nav-buttons mt-4">
+              <button class="slider-prev"><i class="bi bi-arrow-left"></i></button>
+              <button class="slider-next"><i class="bi bi-arrow-right"></i></button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section><!-- /Projects Section -->
+
+<!-- Portfolio Section -->
+<section id="portfolio" class="portfolio section" style="background-image: url('assets/img/background/portfolio-background.jpg'); ">
+  <div class="container section-title" data-aos="fade-up">
+    <h2>Knowledge and Discovery Registered in</h2>
+    <div><span>Research </span> <span class="description-title">Papers</span></div>
+  </div>
+  <div class="container" data-aos="fade-up" data-aos-delay="100">
+    <div class="isotope-layout" data-default-filter=".filter-{{ years[0] }}" data-layout="masonry" data-sort="original-order">
+      <ul class="portfolio-filters isotope-filters" data-aos="fade-up" data-aos-delay="200">
+        <li data-filter=".filter-{{ years[0] }}" class="filter-active">{{ years[0]}}</li>
+        {% for i in range(1, years|length) %}
+          <li data-filter=".filter-{{ years[i] }}">{{ years[i] }}</li>
+        {% endfor %}
+      </ul>
+      <div class="row gy-4 isotope-container" data-aos="fade-up" data-aos-delay="300">
+        {% for paper in papers %}
+        <div class="col-lg-12 isotope-item filter-{{ paper.year }}">
+          <div class="team-member d-flex">
+            <div class="member-img">
+                {% if "google-scholar" in paper %}{% set thumb = "A" + paper["google-scholar"].split(':')[-1] %}{% else %}{% set thumb = "" %}{% endif %}{% if thumb in thumbs %}<img src="data/paper_thumbs/{{ thumbs[thumb] }}" class="img-fluid" alt="" loading="lazy">{% else %}
+                <img src="assets/img/portfolio/standard.jpg" class="img-fluid" alt="" loading="lazy">{% endif %}
+            </div>
+            <div class="member-info flex-grow-1">
+              <h4>{{ paper.title }}</h4>
+              <span>{{ paper.authors }}</span>
+              <p>{{ paper.publication }}</p>
+              <div class="social">
+                {% if paper["google-scholar"] %}<a href='{{ paper["google-scholar"] }}' target="_blank"><i class="ai ai-google-scholar"></i></a>{% endif %}{% if paper.academia %}
+                <a href="{{ paper.academia }}" target="_blank"><i class="ai ai-academia"></i></a>{% endif %}{% if paper.ieee %}
+                <a href="{{ paper.ieee }}" target="_blank"><i class="ai ai-ieee"></i></a>{% endif %}{% if paper.elsevier %}
+                <a href="{{ paper.elsevier }}" target="_blank"><i class="ai ai-elsevier"></i></a>{% endif %}{% if paper.acm %}
+                <a href="{{ paper.acm }}" target="_blank"><i class="ai ai-acm"></i></a>{% endif %}{% if paper["acl-anthology"] %}
+                <a href='{{ paper["acl-anthology"] }}' target="_blank"><i><img src="assets/img/logo/acl.svg" width="30px"></i></a>{% endif %}{% if paper.arxiv %}
+                <a href="{{ paper.arxiv }}" target="_blank"><i class="ai ai-arxiv"></i></a>{% endif %}{% if paper.acmdl %}
+                <a href="{{ paper.acmdl }}" target="_blank"><i class="ai ai-acmdl"></i></a>{% endif %}{% if paper.ceur %}
+                <a href="{{ paper.ceur }}" target="_blank"><i class="ai ai-ceur"></i></a>{% endif %}{% if paper.doi %}
+                <a href="{{ paper.doi }}" target="_blank"><i class="ai ai-doi"></i></a>{% endif %}{% if paper["open-data"] %}
+                <a href='{{ paper["open-data"] }}' target="_blank"><i class="ai ai-open-data"></i></a>{% endif %}{% if paper.researchgate %}
+                <a href='{{ paper.researchgate }}' target="_blank"><i class="ai ai-researchgate"></i></a>{% endif %}{% if paper.springer %}
+                <a href='{{ paper.springer }}' target="_blank"><i class="ai ai-springer"></i></a>{% endif %}{% if paper.zenodo %}
+                <a href='{{ paper.zenodo }}' target="_blank"><i class="ai ai-zenodo"></i></a>{% endif %}{% if paper.github %}
+                <a href="{{ paper.github }}" target="_blank"><i class="bi bi-github"></i></a>{% endif %}{% if paper.kaggle %}
+                <a href="{{ paper.kaggle }}" target="_blank"><i class="fab fa-kaggle"></i></a>{% endif %}{% if paper.huggingface %}
+                <a href='{{ paper.huggingface }}' target="_blank"><i><img src="assets/img/logo/huggingface.svg" width="30px"></i></a>{% endif %}
+              </div>
+            </div>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Contact Section -->
+<section id="contact" class="contact section">
+  <div class="container section-title" data-aos="fade-up">
+    <h2>Contact</h2>
+    <div><span>Let's</span> <span class="description-title">Connect</span></div>
+  </div>
+  <div class="container" data-aos="fade-up" data-aos-delay="100">
+    <div class="row gy-4 mb-5">
+      {% for section in contact %}
+      <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
+        <div class="contact-info-box">
+          <div class="icon-box">
+            <i class="{{ section.icon }}"></i>
+          </div>
+          <div class="info-content">
+            <h4>{{ section.title }}</h4>
+            {% if section.value is string %}
+              <p>{{ section.value }}</p>
+            {% else %}
+              {% for line in section.value %}<p>{{ line }}</p>{% endfor %}
+            {% endif %}
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+{% endblock %}

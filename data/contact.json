@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Postgraduate Program in Applied Computing (PPComp)",
+    "value": "Av. dos Sabiás, 330, Morada de Laranjeiras, Serra, ES, 29166-630, Brazil.",
+    "icon": "bi bi-geo-alt"
+  },
+  {
+    "title": "Email Address",
+    "value": ["paixao@gmail.com", "thiago.paixao@ifes.edu.br"],
+    "icon": "bi bi-envelope"
+  }
+]

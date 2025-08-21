@@ -1,0 +1,18 @@
+{
+  "name": "Thiago Paixão",
+  "description": [
+    "Thiago Meireles Paixão is a Brazilian Computer Science professor at the <b>Federal Institute of Espírito Santo – Campus Serra (IFES-SERRA)</b>, where he has served with exclusive dedication since 2016. He holds a <b>Bachelor's in Computer Science (UFMG, 2006), a Master's (USP, 2010), and a PhD in Informatics (UFES, 2022)</b>, which included a research internship at <b>École de Technologie Supérieure in Montreal, Canada</b>, supported by CAPES. His doctoral work focused on deep learning techniques for reconstructing shredded documents.",
+    "His research spans <b>computer vision, image and video processing, structural pattern recognition, and machine learning, with a growing focus on generative AI and data analysis</b>. He contributes to major applied research projects such as <b>Grávida Digital (in partnership with FMUSP)</b> and <b>predictive modeling for blast furnace temperature (with ArcelorMittal and FAPES)</b>. Thiago is also a member of the <b>Institute of Applied Computational Intelligence (I2CA)</b>, which fosters innovation in intelligent systems and autonomous vehicles in collaboration with academic and industrial partners like Vale, Embraer, and ArcelorMittal."
+  ],
+  "image": "assets/img/profile/profile.jpeg",
+  "cta_text": "DOWNLOAD CV",
+  "cta_link": "",
+  "social": [
+    { "icon": "ai ai-lattes", "link": "http://lattes.cnpq.br/2961730349897943" },
+    { "icon": "ai ai-google-scholar", "link": "https://scholar.google.com/citations?user=AuizbbAAAAAJ" },
+    { "icon": "bi bi-github", "link": "https://github.com/thiagopx" },
+    { "icon": "bi bi-linkedin", "link": "https://www.linkedin.com/in/thiago-m-paixao" },
+    { "icon": "ai ai-semantic-scholar", "link": "https://www.semanticscholar.org/author/T.-M.-Paix%C3%A3o/66689467" },
+    { "icon": "ai ai-orcid", "link": "https://orcid.org/0000-0003-1554-6834" }
+  ]
+}
