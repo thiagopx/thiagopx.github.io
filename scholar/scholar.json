@@ -1,11 +1,11 @@
 [
     {
-        "title": "Automatic Multiple-Choice Question Generation and Evaluation Systems Based on LLM: A Study Case With University Resolutions",
+        "title": "Automatic multiple-choice question generation and evaluation systems based on LLM: A study case with university resolutions",
         "citation_id": "AuizbbAAAAAJ:mB3voiENLucC",
         "authors": "SS Mucciaccia, TM Paix\u00e3o, FW Mutz, CS Badue, AF de Souza, ...",
         "publication": "Proceedings of the 31st International Conference on Computational \u2026, 2025",
         "cited_by": {
-            "value": 3,
+            "value": 13,
             "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13879591386435278551",
             "serpapi_link": "https://serpapi.com/search.json?cites=13879591386435278551&engine=google_scholar&hl=en",
             "cites_id": "13879591386435278551"
@@ -19,7 +19,10 @@
         "authors": "RT Sousa, GDM Silva, PLL Pinto, J Backes, AS Mota, TM Paix\u00e3o, ...",
         "publication": "IEEE Access, 2025",
         "cited_by": {
-            "value": null
+            "value": 1,
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12683479218180311990",
+            "serpapi_link": "https://serpapi.com/search.json?cites=12683479218180311990&engine=google_scholar&hl=en",
+            "cites_id": "12683479218180311990"
         },
         "year": "2025",
         "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=AuizbbAAAAAJ&pagesize=39&citation_for_view=AuizbbAAAAAJ:R3hNpaxXUhUC"
@@ -27,10 +30,13 @@
     {
         "title": "Blast furnace control by hierarchical similarity search in historical data",
         "citation_id": "AuizbbAAAAAJ:qUcmZB5y_30C",
-        "authors": "LL Amorim, F Mutz, TM Paix\u00e3o, V Rampinelli, AF De Souza, C Badue, ...",
+        "authors": "LL Amorim, F Mutz, TM Paixao, V Rampinelli, AF De Souza, C Badue, ...",
         "publication": "Engineering Applications of Artificial Intelligence 141, 109779, 2025",
         "cited_by": {
-            "value": null
+            "value": 1,
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2562780080377190853",
+            "serpapi_link": "https://serpapi.com/search.json?cites=2562780080377190853&engine=google_scholar&hl=en",
+            "cites_id": "2562780080377190853"
         },
         "year": "2025",
         "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=AuizbbAAAAAJ&pagesize=39&citation_for_view=AuizbbAAAAAJ:qUcmZB5y_30C"
@@ -41,10 +47,112 @@
         "authors": "GA Bas\u00edlio, TB Pereira, AL Koerich, H Tavares, L Dias, MGS Teixeira, ...",
         "publication": "18th International Joint Conference on Biomedical Engineering Systems and \u2026, 2025",
         "cited_by": {
-            "value": null
+            "value": 1,
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11314881593401037692",
+            "serpapi_link": "https://serpapi.com/search.json?cites=11314881593401037692&engine=google_scholar&hl=en",
+            "cites_id": "11314881593401037692"
         },
         "year": "2025",
         "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=AuizbbAAAAAJ&pagesize=39&citation_for_view=AuizbbAAAAAJ:e5wmG9Sq2KIC"
+    },
+    {
+        "title": "Proper Body Landmark Subset Enables More Accurate and 5X Faster Recognition of Isolated Signs in LIBRAS",
+        "citation_id": "AuizbbAAAAAJ:bEWYMUwI8FkC",
+        "authors": "DLV dos Santos, TB Pereira, CEGR Alves, RJMG Tello, FA Boldt, ...",
+        "publication": "arXiv preprint arXiv:2510.24887, 2025",
+        "cited_by": {
+            "value": null
+        },
+        "year": "2025",
+        "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=AuizbbAAAAAJ&pagesize=39&citation_for_view=AuizbbAAAAAJ:bEWYMUwI8FkC"
+    },
+    {
+        "title": "RagPharma: A RAG-Based Chatbot for Medicine Leaflets with a Dual-Dataset Evaluation Framework",
+        "citation_id": "AuizbbAAAAAJ:iH-uZ7U-co4C",
+        "authors": "LC Navarro, F Mutz, TM Paix\u00e3o, GG Zanetti, C Badue, AF De Souza, ...",
+        "publication": "Journal of the Brazilian Computer Society 31 (1), 1137-1149, 2025",
+        "cited_by": {
+            "value": null
+        },
+        "year": "2025",
+        "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=AuizbbAAAAAJ&pagesize=39&citation_for_view=AuizbbAAAAAJ:iH-uZ7U-co4C"
+    },
+    {
+        "title": "Driver Drowsiness Detection: Comparative Analysis of BiLSTM and CNN+ BiLSTM Architectures",
+        "citation_id": "AuizbbAAAAAJ:isC4tDSrTZIC",
+        "authors": "LTL de Souza, TM Paixao, RJMG Tello",
+        "publication": "Escola Regional de Inform\u00e1tica do Esp\u00edrito Santo (ERI-ES), 61-69, 2025",
+        "cited_by": {
+            "value": null
+        },
+        "year": "2025",
+        "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=AuizbbAAAAAJ&pagesize=39&citation_for_view=AuizbbAAAAAJ:isC4tDSrTZIC"
+    },
+    {
+        "title": "Desenvolvimento e Avalia\u00e7ao de um Sistema de Escrita e Desenho no Ar com Caneta Eletr\u00f4nica e VLMs",
+        "citation_id": "AuizbbAAAAAJ:TFP_iSt0sucC",
+        "authors": "LTL de Souza, RAD Caldeira, SDC Leal, MCP de Souza, TM Paixao, ...",
+        "publication": "Escola Regional de Inform\u00e1tica do Esp\u00edrito Santo (ERI-ES), 100-109, 2025",
+        "cited_by": {
+            "value": null
+        },
+        "year": "2025",
+        "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=AuizbbAAAAAJ&pagesize=39&citation_for_view=AuizbbAAAAAJ:TFP_iSt0sucC"
+    },
+    {
+        "title": "Pt-HotpotQA: Evaluating Multi-Hop Question Answering on Original and Portuguese-translated Datasets Using LLMs",
+        "citation_id": "AuizbbAAAAAJ:r0BpntZqJG4C",
+        "authors": "SS Mucciaccia, TM Paix\u00e3o, F Mutz, AF De Souza, CS Badue, ...",
+        "publication": "Journal of the Brazilian Computer Society 31 (1), 872-884, 2025",
+        "cited_by": {
+            "value": null
+        },
+        "year": "2025",
+        "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=AuizbbAAAAAJ&pagesize=39&citation_for_view=AuizbbAAAAAJ:r0BpntZqJG4C"
+    },
+    {
+        "title": "A machine learning approach for intra-and inter-cast hot metal temperature forecasting",
+        "citation_id": "AuizbbAAAAAJ:_Qo2XoVZTnwC",
+        "authors": "TM Paix\u00e3o, SS Mucciaccia, LC Navarro, F Mutz, V Rampinelli, C Badue, ...",
+        "publication": "Computers & Chemical Engineering 201, 109210, 2025",
+        "cited_by": {
+            "value": null
+        },
+        "year": "2025",
+        "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=AuizbbAAAAAJ&pagesize=39&citation_for_view=AuizbbAAAAAJ:_Qo2XoVZTnwC"
+    },
+    {
+        "title": "Pig Detection Using Computer Vision Models Trained on Synthetic Datasets",
+        "citation_id": "AuizbbAAAAAJ:k_IJM867U9cC",
+        "authors": "AV Martins, TM Paixao, FA Boldt, IC Condotta",
+        "publication": "Encontro Nacional de Intelig\u00eancia Artificial e Computacional (ENIAC), 915-926, 2025",
+        "cited_by": {
+            "value": null
+        },
+        "year": "2025",
+        "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=AuizbbAAAAAJ&pagesize=39&citation_for_view=AuizbbAAAAAJ:k_IJM867U9cC"
+    },
+    {
+        "title": "Assessing the Effectiveness of Transfer Learning in Chest X-Ray Analysis With the BRAX Dataset",
+        "citation_id": "AuizbbAAAAAJ:j3f4tGmQtD8C",
+        "authors": "ED Silva, TB Pereira, CE Brand\u00e3o, FDA Boldt, TM Paix\u00e3o",
+        "publication": "IEEE Access, 2025",
+        "cited_by": {
+            "value": null
+        },
+        "year": "2025",
+        "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=AuizbbAAAAAJ&pagesize=39&citation_for_view=AuizbbAAAAAJ:j3f4tGmQtD8C"
+    },
+    {
+        "title": "Previs\u00e3o de demanda de curto prazo usando aprendizado de m\u00e1quina com dados por telemetria: Um estudo de caso no Brasil",
+        "citation_id": "AuizbbAAAAAJ:4JMBOYKVnBMC",
+        "authors": "MR de Souza, DP Silva, TM Paixao",
+        "publication": "Semin\u00e1rio Integrado de Software e Hardware (SEMISH), 345-356, 2025",
+        "cited_by": {
+            "value": null
+        },
+        "year": "2025",
+        "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=AuizbbAAAAAJ&pagesize=39&citation_for_view=AuizbbAAAAAJ:4JMBOYKVnBMC"
     },
     {
         "title": "Enhancing Brazilian Sign Language Recognition through Skeleton Image Representation",
@@ -52,7 +160,7 @@
         "authors": "CEGR Alves, FDA Boldt, TM Paix\u00e3o",
         "publication": "2024 37th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI), 1-6, 2024",
         "cited_by": {
-            "value": 7,
+            "value": 11,
             "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7699433738566464166",
             "serpapi_link": "https://serpapi.com/search.json?cites=7699433738566464166&engine=google_scholar&hl=en",
             "cites_id": "7699433738566464166"
@@ -66,98 +174,13 @@
         "authors": "CES Barbosa, TB Pereira, IM do Carmo, RJMG Tello, FA Boldt, TM Paixao",
         "publication": "Escola Regional de Inform\u00e1tica do Esp\u00edrito Santo (ERI-ES), 21-30, 2024",
         "cited_by": {
-            "value": null
+            "value": 1,
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10199594659524972020",
+            "serpapi_link": "https://serpapi.com/search.json?cites=10199594659524972020&engine=google_scholar&hl=en",
+            "cites_id": "10199594659524972020"
         },
         "year": "2024",
         "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=AuizbbAAAAAJ&pagesize=39&citation_for_view=AuizbbAAAAAJ:TQgYirikUcIC"
-    },
-    {
-        "title": "Vis\u00e3o Computacional e Controle de For\u00e7a em Garras Rob\u00f3ticas: Uma Abordagem Integrada",
-        "citation_id": "AuizbbAAAAAJ:HDshCWvjkbEC",
-        "authors": "AFN Martins, BH Xavier, TB Pereira, DG Moura, E de PP Marinho, ...",
-        "publication": "Escola Regional de Inform\u00e1tica do Esp\u00edrito Santo (ERI-ES), 181-184, 2024",
-        "cited_by": {
-            "value": null
-        },
-        "year": "2024",
-        "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=AuizbbAAAAAJ&pagesize=39&citation_for_view=AuizbbAAAAAJ:HDshCWvjkbEC"
-    },
-    {
-        "title": "Segmenta\u00e7\u00e3o de Estradas em Mapas de Remiss\u00e3o utilizando Redes Neurais",
-        "citation_id": "AuizbbAAAAAJ:hFOr9nPyWt4C",
-        "authors": "L Dias, EO Ferreira, F de Assis Boldt, MV Faria, TM Paix\u00e3o",
-        "publication": "ESCOLA REGIONAL DE INFORM\u00c1TICA DO ESP\u00cdRITO SANTO (ERI-ES), 147-156, 2024",
-        "cited_by": {
-            "value": null
-        },
-        "year": "2024",
-        "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=AuizbbAAAAAJ&pagesize=39&citation_for_view=AuizbbAAAAAJ:hFOr9nPyWt4C"
-    },
-    {
-        "title": "Aprimoramento de Modelos de Classifica\u00e7\u00e3o com Dados Enriquecidos via Web Scraping: Um Estudo de Caso da Competi\u00e7\u00e3o Dog Breed Identification",
-        "citation_id": "AuizbbAAAAAJ:-f6ydRqryjwC",
-        "authors": "MVM Faria, L Dias, EOP Ferreira, TM Paix\u00e3o, FA Boldt",
-        "publication": "ESCOLA REGIONAL DE INFORM\u00c1TICA DO ESP\u00cdRITO SANTO (ERI-ES), 127-136, 2024",
-        "cited_by": {
-            "value": null
-        },
-        "year": "2024",
-        "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=AuizbbAAAAAJ&pagesize=39&citation_for_view=AuizbbAAAAAJ:-f6ydRqryjwC"
-    },
-    {
-        "title": "A Comparative Evaluation of Transformer-Based Vision Encoder-Decoder Models for Brazilian Portuguese Image Captioning",
-        "citation_id": "AuizbbAAAAAJ:L8Ckcad2t8MC",
-        "authors": "G Bromonschenkel, H Oliveira, TM Paix\u00e3o",
-        "publication": "2024 37th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI), 1-6, 2024",
-        "cited_by": {
-            "value": null
-        },
-        "year": "2024",
-        "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=AuizbbAAAAAJ&pagesize=39&citation_for_view=AuizbbAAAAAJ:L8Ckcad2t8MC"
-    },
-    {
-        "title": "Sistema de predi\u00e7\u00e3o de escanteios asi\u00e1ticos utilizando redes neurais artificiais",
-        "citation_id": "AuizbbAAAAAJ:ZeXyd9-uunAC",
-        "authors": "RAV Gusm\u00e3o",
-        "publication": "Serra, 2024",
-        "cited_by": {
-            "value": null
-        },
-        "year": "2024",
-        "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=AuizbbAAAAAJ&pagesize=39&citation_for_view=AuizbbAAAAAJ:ZeXyd9-uunAC"
-    },
-    {
-        "title": "Pr\u00e9-diagn\u00f3stico de c\u00e2ncer de mama usando imagens histopatol\u00f3gicas com pr\u00e9-processamento morfol\u00f3gico por meio de algoritmos cl\u00e1ssicos e redes neurais profundas",
-        "citation_id": "AuizbbAAAAAJ:QIV2ME_5wuYC",
-        "authors": "MWC Pereira, TM Paixao, FZ de Castro",
-        "publication": "Conference on Graphics, Patterns and Images (SIBGRAPI), 156-159, 2023",
-        "cited_by": {
-            "value": null
-        },
-        "year": "2023",
-        "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=AuizbbAAAAAJ&pagesize=39&citation_for_view=AuizbbAAAAAJ:QIV2ME_5wuYC"
-    },
-    {
-        "title": "Unveiling the Secrets: Reconstruction of Shredded Documents using Deep Learning",
-        "citation_id": "AuizbbAAAAAJ:9ZlFYXVOiuMC",
-        "authors": "TM Paixao, MCS Boeres, T Oliveira-Santos",
-        "publication": "Conference on Graphics, Patterns and Images (SIBGRAPI), 49-55, 2023",
-        "cited_by": {
-            "value": null
-        },
-        "year": "2023",
-        "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=AuizbbAAAAAJ&pagesize=39&citation_for_view=AuizbbAAAAAJ:9ZlFYXVOiuMC"
-    },
-    {
-        "title": "Deep learning-based reconstruction of shredded documents",
-        "citation_id": "AuizbbAAAAAJ:4DMP91E08xMC",
-        "authors": "TM Paixao, MCS Boeres, T Oliveira-Santos",
-        "publication": "Concurso de Teses e Disserta\u00e7\u00f5es (CTD), 10-19, 2023",
-        "cited_by": {
-            "value": null
-        },
-        "year": "2023",
-        "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=AuizbbAAAAAJ&pagesize=39&citation_for_view=AuizbbAAAAAJ:4DMP91E08xMC"
     },
     {
         "title": "Cross-domain object detection using unsupervised image translation",
@@ -165,7 +188,7 @@
         "authors": "VF Arruda, RF Berriel, TM Paix\u00e3o, C Badue, AF De Souza, N Sebe, ...",
         "publication": "Expert Systems with Applications 192, 116334, 2022",
         "cited_by": {
-            "value": 22,
+            "value": 26,
             "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17251100644958004343",
             "serpapi_link": "https://serpapi.com/search.json?cites=17251100644958004343&engine=google_scholar&hl=en",
             "cites_id": "17251100644958004343"
@@ -179,7 +202,7 @@
         "authors": "LC Navarro, LL Amorim, R Berriel, TM Paix\u00e3o, V Rampinelli, LA Wasem, ...",
         "publication": "2022 35th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI) 1 \u2026, 2022",
         "cited_by": {
-            "value": 8,
+            "value": 11,
             "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11617004675720944017",
             "serpapi_link": "https://serpapi.com/search.json?cites=11617004675720944017&engine=google_scholar&hl=en",
             "cites_id": "11617004675720944017"
@@ -193,7 +216,7 @@
         "authors": "L Tabelini, R Berriel, TM Paix\u00e3o, AF De Souza, C Badue, N Sebe, ...",
         "publication": "Machine Vision and Applications 33 (3), 50, 2022",
         "cited_by": {
-            "value": 8,
+            "value": 9,
             "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13085089496951025292",
             "serpapi_link": "https://serpapi.com/search.json?cites=13085089496951025292&engine=google_scholar&hl=en",
             "cites_id": "13085089496951025292"
@@ -221,7 +244,7 @@
         "authors": "C Badue, R Guidolini, RV Carneiro, P Azevedo, VB Cardoso, A Forechi, ...",
         "publication": "Expert systems with applications 165, 113816, 2021",
         "cited_by": {
-            "value": 1463,
+            "value": 1655,
             "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=185876639896984876",
             "serpapi_link": "https://serpapi.com/search.json?cites=185876639896984876&engine=google_scholar&hl=en",
             "cites_id": "185876639896984876"
@@ -235,7 +258,7 @@
         "authors": "L Tabelini, R Berriel, TM Paixao, C Badue, AF De Souza, ...",
         "publication": "Proceedings of the IEEE/CVF conference on computer vision and pattern \u2026, 2021",
         "cited_by": {
-            "value": 504,
+            "value": 576,
             "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13590135080871318855",
             "serpapi_link": "https://serpapi.com/search.json?cites=13590135080871318855&engine=google_scholar&hl=en",
             "cites_id": "13590135080871318855"
@@ -249,7 +272,7 @@
         "authors": "L Tabelini, R Berriel, TM Paixao, C Badue, AF De Souza, ...",
         "publication": "2020 25th international conference on pattern recognition (ICPR), 6150-6156, 2021",
         "cited_by": {
-            "value": 384,
+            "value": 449,
             "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2114384683581602680",
             "serpapi_link": "https://serpapi.com/search.json?cites=2114384683581602680&engine=google_scholar&hl=en",
             "cites_id": "2114384683581602680"
@@ -258,12 +281,12 @@
         "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=AuizbbAAAAAJ&pagesize=39&citation_for_view=AuizbbAAAAAJ:Se3iqnhoufwC"
     },
     {
-        "title": "Deep learning-based type identification of volumetric mri sequences",
+        "title": "Deep learning-based type identification of volumetric MRI sequences",
         "citation_id": "AuizbbAAAAAJ:kNdYIx-mwKoC",
         "authors": "JPV de Mello, TM Paix\u00e3o, R Berriel, M Reyes, C Badue, AF De Souza, ...",
         "publication": "2020 25th International Conference on Pattern Recognition (ICPR), 1-8, 2021",
         "cited_by": {
-            "value": 23,
+            "value": 24,
             "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13048913722654549474",
             "serpapi_link": "https://serpapi.com/search.json?cites=13048913722654549474&engine=google_scholar&hl=en",
             "cites_id": "13048913722654549474"
@@ -277,7 +300,7 @@
         "authors": "JPV de Mello, L Tabelini, RF Berriel, TM Paixao, AF De Souza, C Badue, ...",
         "publication": "Computers & Graphics 94, 76-86, 2021",
         "cited_by": {
-            "value": 16,
+            "value": 17,
             "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13264650341514249492",
             "serpapi_link": "https://serpapi.com/search.json?cites=13264650341514249492&engine=google_scholar&hl=en",
             "cites_id": "13264650341514249492"
@@ -291,7 +314,7 @@
         "authors": "JPA Andrade, LS Paulucio, TM Paixao, RF Berriel, TCJ Carneiro, ...",
         "publication": "Encontro Nacional de Intelig\u00eancia Artificial e Computacional (ENIAC), 165-176, 2021",
         "cited_by": {
-            "value": 11,
+            "value": 13,
             "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17329012775931385251",
             "serpapi_link": "https://serpapi.com/search.json?cites=17329012775931385251&engine=google_scholar&hl=en",
             "cites_id": "17329012775931385251"
@@ -303,9 +326,9 @@
         "title": "Sisfrutos Papaya: A Dataset for Detection and Classification of Diseases in Papaya",
         "citation_id": "AuizbbAAAAAJ:Zph67rFs4hoC",
         "authors": "JL de Moraes, J de Oliveira Neto, JR Correia-Silva, TM Paix\u00e3o, C Badue, ...",
-        "publication": "Artificial Neural Networks and Machine Learning\u2013ICANN 2021: 30th \u2026, 2021",
+        "publication": "International Conference on Artificial Neural Networks, 28-39, 2021",
         "cited_by": {
-            "value": 3,
+            "value": 4,
             "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9447229792325718783",
             "serpapi_link": "https://serpapi.com/search.json?cites=9447229792325718783&engine=google_scholar&hl=en",
             "cites_id": "9447229792325718783"
@@ -347,7 +370,7 @@
         "authors": "LS Paulucio, TM Paix\u00e3o, RF Berriel, AF De Souza, C Badue, ...",
         "publication": "2020 International joint conference on neural networks (IJCNN), 1-7, 2020",
         "cited_by": {
-            "value": 5,
+            "value": 6,
             "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6834668542514861492",
             "serpapi_link": "https://serpapi.com/search.json?cites=6834668542514861492&engine=google_scholar&hl=en",
             "cites_id": "6834668542514861492"
@@ -359,9 +382,9 @@
         "title": "Cross-domain car detection using unsupervised image-to-image translation: From day to night",
         "citation_id": "AuizbbAAAAAJ:eQOLeE2rZwMC",
         "authors": "VF Arruda, TM Paixao, RF Berriel, AF De Souza, C Badue, N Sebe, ...",
-        "publication": "2019 International Joint Conference on Neural Networks (IJCNN), 1-8, 2019",
+        "publication": "2019 International joint conference on neural networks (IJCNN), 1-8, 2019",
         "cited_by": {
-            "value": 135,
+            "value": 148,
             "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15094897510552573904",
             "serpapi_link": "https://serpapi.com/search.json?cites=15094897510552573904&engine=google_scholar&hl=en",
             "cites_id": "15094897510552573904"
@@ -375,7 +398,7 @@
         "authors": "LC Possatti, R Guidolini, VB Cardoso, RF Berriel, TM Paix\u00e3o, C Badue, ...",
         "publication": "2019 international joint conference on neural networks (IJCNN), 1-8, 2019",
         "cited_by": {
-            "value": 97,
+            "value": 104,
             "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1991538464983849813",
             "serpapi_link": "https://serpapi.com/search.json?cites=1991538464983849813&engine=google_scholar&hl=en",
             "cites_id": "1991538464983849813"
@@ -386,10 +409,10 @@
     {
         "title": "Handling pedestrians in self-driving cars using image tracking and alternative path generation with Fren\u00e9t frames",
         "citation_id": "AuizbbAAAAAJ:WF5omc3nYNoC",
-        "authors": "R Sarcinelli, R Guidolini, VB Cardoso, TM Paix\u00e3o, RF Berriel, P Azevedo, ...",
+        "authors": "R Sarcinelli, R Guidolini, VB Cardoso, TM Paixao, RF Berriel, P Azevedo, ...",
         "publication": "Computers & Graphics 84, 173-184, 2019",
         "cited_by": {
-            "value": 37,
+            "value": 38,
             "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17225575495424757466",
             "serpapi_link": "https://serpapi.com/search.json?cites=17225575495424757466&engine=google_scholar&hl=en",
             "cites_id": "17225575495424757466"
@@ -403,7 +426,7 @@
         "authors": "LT Torres, TM Paix\u00e3o, RF Berriel, AF De Souza, C Badue, N Sebe, ...",
         "publication": "2019 international joint conference on neural networks (IJCNN), 1-7, 2019",
         "cited_by": {
-            "value": 27,
+            "value": 26,
             "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2928162756534096339",
             "serpapi_link": "https://serpapi.com/search.json?cites=2928162756534096339&engine=google_scholar&hl=en",
             "cites_id": "2928162756534096339"
@@ -445,7 +468,7 @@
         "authors": "TM Paixao, RF Berriel, MCS Boeres, C Badue, AF De Souza, ...",
         "publication": "2018 31St SIBGRAPI conference on graphics, patterns and images (SIBGRAPI), 87-94, 2018",
         "cited_by": {
-            "value": 14,
+            "value": 15,
             "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17162575282749323479",
             "serpapi_link": "https://serpapi.com/search.json?cites=17162575282749323479&engine=google_scholar&hl=en",
             "cites_id": "17162575282749323479"
@@ -459,7 +482,7 @@
         "authors": "WR da Paixao, TM Paixao, MCB da Costa, JO Andrade, FG Pereira, ...",
         "publication": "International Journal of Artificial Intelligence & Applications 9 (2), 55-67, 2018",
         "cited_by": {
-            "value": 3,
+            "value": 4,
             "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4992268308463890058",
             "serpapi_link": "https://serpapi.com/search.json?cites=4992268308463890058&engine=google_scholar&hl=en",
             "cites_id": "4992268308463890058"
@@ -480,16 +503,6 @@
         },
         "year": "2018",
         "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=AuizbbAAAAAJ&pagesize=39&citation_for_view=AuizbbAAAAAJ:IjCSPb-OGe4C"
-    },
-    {
-        "title": "Rastreamento de objetos utilizando reconhecimento estrutural de padr\u00f5es: uma abordagem com modelo est\u00e1tico",
-        "citation_id": "AuizbbAAAAAJ:mVmsd5A6BfQC",
-        "authors": "TM Paix\u00e3o",
-        "cited_by": {
-            "value": null
-        },
-        "year": "2010",
-        "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=AuizbbAAAAAJ&pagesize=39&citation_for_view=AuizbbAAAAAJ:mVmsd5A6BfQC"
     },
     {
         "title": "A backmapping approach for graph-based object tracking",
